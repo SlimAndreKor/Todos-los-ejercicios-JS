@@ -4,8 +4,11 @@
     Ejemplo: para el numero 6 sus divisores son 1,2,3,6. Sumando todos excepto el 6: 1+2+3=6, 6 es perfecto. */
 
     let cant_numeros = 4;
+
     let num_divisores = [];
+
     let num_perfectos = [];
+
     let numero = 1;
 
     while (true) {

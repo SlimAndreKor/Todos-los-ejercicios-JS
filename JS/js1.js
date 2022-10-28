@@ -16,7 +16,7 @@ console.log(10 < 2 ? "parte verdadera" : "parte falsa");
 
 let temp= 1;
 
-let mensaje= temp < 10 ? "Llevar chamarra" : "No llevar chamarra";
+let mensaje= temp < 10 ? "Llevar chamarra" : "No llevar chamarra"
 
 console,log(mensaje);
 

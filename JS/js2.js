@@ -7,8 +7,9 @@ let computadora ={
     "softwereinstalado":apps 
 }
 
-//Arrays
+//---Arrays
 let alumnos = ["mario", "luis"];
+
 console.log(alumnos);
 console.log("total elementos", alumnos , length);
 console.log("primer elemento", alumnos [0]);
@@ -16,7 +17,7 @@ console.log("ulyimo elemento", alumnos [alumnos.length-1]);
 
 console.log("tipo de dato:", typeof(alumnois));
 
-//Arrays indexados (dicccionarios)
+//---Arrays indexados (dicccionarios)
 let grupo51 = {
     "nombre": "grupo51",
     "semestre": 5,
@@ -35,6 +36,7 @@ document.write('<ul><li>Elemento</li></ul>');
 /*Ejemplo if*/
 
 let calif =95;
+
 if (calif>=95) {
     console.log("Excelente");
 } else {
